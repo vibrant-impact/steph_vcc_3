@@ -18,4 +18,6 @@ export const router = createBrowserRouter([
       { path: "responsive", Component: ResponsivePatterns },
     ],
   },
-]);
+], {
+  basename: "/steph_vcc_3", 
+});
