@@ -2,6 +2,9 @@
 
 A curated collection of modern, responsive grid and flexbox experiments designed for high-performance UI/UX. This library serves as a "Layout Lab" where design principles meet technical implementation.
 
+## 🔗 Live Demo
+[View the Layout Lab](https://vibrant-impact.github.io/steph_vcc_3/)
+
 ## 🚀 Overview
 As a graphic design graduate transitioning into web development, I created this repository to bridge the gap between static design systems and flexible, responsive code. Each pattern focuses on clean, modular CSS.
 
